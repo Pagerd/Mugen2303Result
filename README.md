@@ -2,6 +2,8 @@
 
 本次测试基于[mugen](https://gitee.com/openeuler/mugen) [2023年7月10日](https://gitee.com/openeuler/mugen/commit/9c1ec20823391d812d687d81259fe1f1d9a51dcf)测试套仓库中包含的所有测试套及测试用例。
 
+测试方法详见[Mugen测试方法](./Mugen.md)
+
 共测试了**558**个测试套，**4259**个测试用例，其中
 
 - **2692**个测试用例在RISC-V上成功
