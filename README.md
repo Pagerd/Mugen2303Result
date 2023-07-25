@@ -1,6 +1,6 @@
 ## openEuler 2303 RISC-V测试结果
 
-本次测试基于[mugen](https://gitee.com/openeuler/mugen) [2023年4月23日](https://gitee.com/openeuler/mugen/commit/9c1ec20823391d812d687d81259fe1f1d9a51dcf)测试套仓库中包含的所有测试套及测试用例。
+本次测试基于[mugen](https://gitee.com/openeuler/mugen) [2023年7月10日](https://gitee.com/openeuler/mugen/commit/9c1ec20823391d812d687d81259fe1f1d9a51dcf)测试套仓库中包含的所有测试套及测试用例。
 
 共测试了**558**个测试套，**4259**个测试用例，其中
 
